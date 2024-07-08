@@ -1,0 +1,62 @@
+
+.header-container{
+    /* margin-top: 10px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.header-logo{
+    padding-left: 10px;
+    padding-bottom: 4px;
+    margin-top: 4px;
+}
+.header-logo>img{
+    width: 70px;
+    height: 70px;
+    box-shadow: 0 1px 6px rgb(228, 240, 10);
+    border-radius: 50%;
+}
+
+.head-items>a{
+    position: relative;
+    margin-right: 10px;
+    padding: 8px 10px;
+    font-size: 18px;
+    color: whitesmoke;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.head-items>a:hover{
+    color: rgb(203, 235, 24);
+    transition: 0.2s ease-in-out;
+}
+
+.button-container{
+    position: relative;
+    margin-right: 10px;
+    padding: 8px 10px;
+}
+.login{
+    position: relative;
+    margin-right: 20px;
+    background-color: white;
+    padding: 8px 5px 8px 5px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #1f3b4d;
+    border-radius: 8px;
+}
+
+.Signup{
+    position: relative;
+    margin-right: 20px;
+    background-color: yellow;
+    padding: 8px 5px 8px 5px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #1f3b4d;
+    border-radius: 8px;
+}

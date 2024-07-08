@@ -1,0 +1,31 @@
+.home-container{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.home-image{
+    height: 450px;
+    width: 450px;
+}
+
+.right-content{
+    margin-left: 70px;
+    padding-left: 200px;
+}
+.right-desc{
+    color: rgb(0, 255, 255);
+    font-size: 60px;
+    font-family: serif;
+}
+.right-desc>span{
+    color: yellow;
+    font-family: serif;
+    font-style: italic;
+}
+.right-content>img{
+    height: 350px;
+    width: 350px;
+    margin-left: 40px;
+}
+

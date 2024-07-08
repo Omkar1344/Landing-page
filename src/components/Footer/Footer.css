@@ -1,0 +1,81 @@
+.footer {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  
+  .footer-section {
+    flex: 1;
+    margin: 10px;
+  }
+  
+  .logo-text {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .socials a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  .socials svg {
+    width: 24px;
+    height: 24px;
+    fill: #fff;
+    margin-right: 10px;
+  }
+  
+  .links ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .links ul li {
+    margin: 10px 0;
+  }
+  
+  .links ul li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .contact-form {
+    text-align: left;
+  }
+  
+  .contact-input {
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    color: #333;
+  }
+  
+  .btn {
+    background: #ff4b2b;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .footer-bottom {
+    padding: 10px 0;
+    text-align: center;
+    border-top: 1px solid #555;
+    margin-top: 20px;
+  }
+  

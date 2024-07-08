@@ -1,0 +1,1 @@
+export const headOptions=['Home','About','Product','Blog'];
